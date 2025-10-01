@@ -1,0 +1,14 @@
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\bin\Debug\net9.0-windows\pixel-flash-remake.exe
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\bin\Debug\net9.0-windows\pixel-flash-remake.deps.json
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\bin\Debug\net9.0-windows\pixel-flash-remake.runtimeconfig.json
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\bin\Debug\net9.0-windows\pixel-flash-remake.dll
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\bin\Debug\net9.0-windows\pixel-flash-remake.pdb
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\obj\Debug\net9.0-windows\pixel-flash-remake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\obj\Debug\net9.0-windows\pixel-flash-remake.AssemblyInfoInputs.cache
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\obj\Debug\net9.0-windows\pixel-flash-remake.AssemblyInfo.cs
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\obj\Debug\net9.0-windows\pixel-flash-remake.csproj.CoreCompileInputs.cache
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\obj\Debug\net9.0-windows\pixel-flash-remake.dll
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\obj\Debug\net9.0-windows\refint\pixel-flash-remake.dll
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\obj\Debug\net9.0-windows\pixel-flash-remake.pdb
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\obj\Debug\net9.0-windows\pixel-flash-remake.genruntimeconfig.cache
+C:\Users\tuginy\RiderProjects\pixel-flash-remake\pixel-flash-remake\obj\Debug\net9.0-windows\ref\pixel-flash-remake.dll
